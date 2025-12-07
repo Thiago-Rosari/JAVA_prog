@@ -14,13 +14,14 @@ public class Variaveis {
         */
         
 
-        int idade;
+        /*int idade;
         char letra;
         double altura;
 
         int paresDeTenis = 5;
         char letraInicial = 'D';
         double peso = 90.5;
+        */
     }
     
 }
