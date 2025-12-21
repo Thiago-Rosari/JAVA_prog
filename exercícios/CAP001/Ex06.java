@@ -1,4 +1,3 @@
-package exercícios.CAP001;
 
 import java.util.Scanner;
 
